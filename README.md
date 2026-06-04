@@ -53,7 +53,7 @@ Ejemplo:
 ```java
 String url = "jdbc:mysql://localhost:3306/cinelog";
 String usuario = "root";
-String password = "";
+String password = "Samara182";
 ```
 
 ### 4. Abrir el proyecto

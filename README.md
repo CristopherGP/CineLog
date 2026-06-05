@@ -114,6 +114,12 @@ El proyecto utiliza MySQL y contiene:
   - vista_directores
   - vista_resenas
     
+## Usuarios para probar Roles
+
+1. Usuario: Admin   Rol: Admin     Password: 123
+2. Usuario: Cristo  Rol: Operador  Password: 12345
+3. Usuario Johana   Rol: Consultor Password: 1234
+ 
 ## Video Explicativo
 
 https://youtu.be/s8hnbfe8goM?feature=shared

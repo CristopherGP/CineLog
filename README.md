@@ -108,9 +108,15 @@ El proyecto utiliza MySQL y contiene:
 
 - Vistas
   - vista_peliculas
+  - vista_peliculas_directores
+  - vista_peliculas_generos
   - vista_generos
   - vista_directores
   - vista_resenas
+    
+## Video Explicativo
+
+https://youtu.be/s8hnbfe8goM?feature=shared
 
 ## Autor
 
